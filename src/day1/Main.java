@@ -1,3 +1,5 @@
+package day1;
+
 public class Main {
     public static void main(String[] args) {
         Student vivek = new Student(1, "Vivek", 80.31f);
@@ -36,5 +38,21 @@ class Student {
 
     void display() {
         System.out.println(rollNo + " is " + name + " having marks = " + marks + " %");
+    }
+}
+
+class A {
+    String name;
+
+    A() {
+        this.name = "Hello";
+    }
+
+    A(String name) {
+        this.name = name;
+    }
+
+    A(A other) {
+        this.name = other.name;
     }
 }

@@ -5,14 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d6f537f-5909-4649-b762-ed506d77db0c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectOrientedProgramming.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WrapperExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/test1/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/test2/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/test2/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/staticExample/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/staticExample/InnerClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/staticExample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WrapperExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/WrapperExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,15 +41,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/OOP/ObjectOrientedProgramming/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "onboarding.tips.debug.path": "D:/OOP/ObjectOrientedProgramming/src/Main.java"
   }
-}</component>
-  <component name="RunManager" selected="Application.Main (2)">
+}]]></component>
+  <component name="RunManager" selected="Application.InnerClasses">
+    <configuration name="Greeting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.test1.Greeting" />
+      <module name="ObjectOrientedProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2.test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InnerClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="staticExample.InnerClasses" />
+      <module name="ObjectOrientedProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="staticExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="ObjectOrientedProgramming" />
@@ -61,18 +91,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="staticExample.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="staticExample.Main" />
       <module name="ObjectOrientedProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="staticExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InnerClasses" />
+        <item itemvalue="Application.staticExample.Main" />
+        <item itemvalue="Application.Greeting" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -85,6 +123,19 @@
       <option name="presentableId" value="Default" />
       <updated>1700294534170</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lecture 1 of Object Oriented Programming">
+      <option name="closed" value="true" />
+      <created>1700303237137</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700303237137</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lecture 1 of Object Oriented Programming" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lecture 1 of Object Oriented Programming" />
   </component>
 </project>
